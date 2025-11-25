@@ -353,8 +353,6 @@ Email: `Hieu77095@gmail.com`
 
 # 🙏 Acknowledgments
 
-* Flutter Team
-* Provider package
-* Material Design
+* GDHD: Tran Thi Quynh Nga
 
 ---
